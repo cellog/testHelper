@@ -1,0 +1,24 @@
+{
+  "name": "testHelper",
+  "version": "0.1.0",
+  "description": "boilerplate for building great react/redux test helpers",
+  "repository": "https://github.com/cellog/testHelper",
+  "author": "Gregory Beaver",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dnd": "^2.1.4",
+    "react-dom": "^15.4.1",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0",
+    "redux-saga": "^0.14.3"
+  },
+  "devDependencies": {
+    "jsdom": "^8.1.0",
+    "react-addons-test-utils": "^15.4.1",
+    "react-dnd-test-backend": "^1.0.2",
+    "sinon": "^2.0.0-pre.4",
+    "sinon-chai": "^2.8.0",
+    "teaspoon": "^6.4.2"
+  }
+}
